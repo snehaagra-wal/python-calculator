@@ -1,5 +1,5 @@
 # python-calculator
-A beginner friendly python command line calculator with python.This project is designed to perform basic arithmetic operations and handles error.<br>
+A beginner friendly python command line calculator with python.This project is designed to perform basic arithmetic operations and handles error.<br></br>
 ## Features
 *Basic arithmetic operation:*
 supports addition , subtraction, multiplication , ddivsion
